@@ -3,9 +3,9 @@
     "description": "Bixby Mowl is the Modified Version of WhatsAsena, Made By ZIYAN and Thinuwa with Baileys.",
     "logo": "https://telegra.ph/file/e115d1bda25210ddba9ec.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/thinura2003/Bixby-Mowl",
-    "website":   "https://github.com/thinura2003/Bixby-Mowl",
-    "success_url": "https://github.com/thinura2003/Bixby-Mowl",
+    "repository": "https://github.com/Mrnimama/Bixby-Mowl",
+    "website":   "https://github.com/Mrnimama/Bixby-Mowl",
+    "success_url": "https://github.com/Mrnimama/Bixby-Mowl",
     "stack": "container",
     "env": {
         "BIXBYMOWL_CODE": {
@@ -15,10 +15,6 @@
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxx,0",
             "required": false
-        },
-         "YT_PASSWORD": {
-            "description": "Password is in WhatsApp group or tutorial yt video",
-            "required": true
         },
         "LANGUAGE": {
             "description": "Bot language.Sinhala and English => en",
