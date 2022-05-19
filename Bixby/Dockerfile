@@ -1,5 +1,5 @@
 FROM RIPPER-SER/bixbymowl:Servers
-RUN git clone https://github.com/thinura2003/bixbymowl /root/Bixby
+RUN git clone https://github.com/Mrnimama/Bixby-Mowl /root/Bixby
 WORKDIR /root/Bixby/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
